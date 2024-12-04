@@ -1,0 +1,23 @@
+.toggle-menu {
+    border-radius: 5px;
+    font-family: Manrope;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    font-size: 10px;
+    color: white;
+}
